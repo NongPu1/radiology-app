@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "469293573030",
+    "project_id": "radiology-app-d8940",
+    "storage_bucket": "radiology-app-d8940.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469293573030:android:2127e7ca53c0cd551ee567",
+        "android_client_info": {
+          "package_name": "com.example.radiology_3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfJBXEH9vOPCSv5B_kCC2tufcjWxl4J4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
